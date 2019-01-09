@@ -21,6 +21,7 @@ Waltham Forest paid for a funeral for every 17 deaths and Hackney for one in eve
 ## Get the data 
 
 * XLS: [analysis of public health funeral spending compared with registered deaths in each authority](https://github.com/BBC-Data-Unit/paupers-funerals/blob/master/funerals.xlsx) 
+* ONS: [Deaths registered monthly in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/monthlyfiguresondeathsregisteredbyareaofusualresidence)
 
 ## Quotes and interviews
 
